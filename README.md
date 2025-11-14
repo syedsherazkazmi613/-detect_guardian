@@ -103,12 +103,12 @@ A beginner-friendly, non-technical antivirus-style tool with a simple GUI that h
 
 2. **Run the application:**
    ```bash
-   python3 des.py
+   python3 detect_guardian.py
    ```
 
    Or if `python3` is not available:
    ```bash
-   python des.py
+   python detect_guardian.py
    ```
 
 ### Windows
@@ -117,7 +117,7 @@ A beginner-friendly, non-technical antivirus-style tool with a simple GUI that h
 
 2. **Run the application:**
    ```cmd
-   python des.py
+   python detect_guardian.py
    ```
 
 ## Usage
